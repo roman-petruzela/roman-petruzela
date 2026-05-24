@@ -1,16 +1,17 @@
-## Hi there 👋
+# roman-petruzela
+Hi. I convert caffeine, existential dread, and weird ideas into code that (usually) compiles.
 
-<!--
-**roman-petruzela/roman-petruzela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack:
+* **`Python`**
+* **`Rust`**
+* **`PHP`**
+* **`C#`**
+* **`JS`** 
 
-Here are some ideas to get you started:
+### 🌌 Visual Void
+nothing yet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Stats:
+![stats](https://github-readme-stats.vercel.app/api?username=roman-petruzela&show_icons=true&theme=tokyonight&count_private=true)
+
+**I use Arch btw.**
