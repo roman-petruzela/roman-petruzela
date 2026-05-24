@@ -17,6 +17,7 @@ nothing yet.
 
 ### 📈 Stats:
 _they suck_
+
 [![stats](https://github-readme-mwendwa.vercel.app/api?username=roman-petruzela&show_icons=true&count_private=true&line_height=20&icon_color=7aa2f7&theme=tokyonight&title_color=7aa2f7)](#)
 
 **I use Arch btw.**
