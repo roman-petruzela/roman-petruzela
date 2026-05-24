@@ -12,6 +12,6 @@ Hi. I convert caffeine, existential dread, and weird ideas into code that (usual
 nothing yet
 
 ### 📈 Stats:
-![stats](https://github-readme-stats.vercel.app/api?username=roman-petruzela&show_icons=true&theme=tokyonight&count_private=true)
+![stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=roman-petruzela&show_icons=true&theme=tokyonight&count_private=true)
 
 **I use Arch btw.**
