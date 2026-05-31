@@ -1,4 +1,7 @@
 # roman-petruzela
+
+![roman-petruzela hero banner](./assets/arch-hero.svg)
+
 Hi. I convert caffeine, existential dread, and weird ideas into code that (usually) compiles.
 
 **Not a corporate rat, a penguin enjoyer.**
@@ -12,7 +15,8 @@ Hi. I convert caffeine, existential dread, and weird ideas into code that (usual
 
 [![stack](https://skillicons.dev/icons?i=py,php,cs,rust,js&perline=6)](#)
 ### 🌌 Visual Void
-nothing yet.
+
+Jemný Arch watermark je v banneru nahoře.
 
 ### 📈 Stats:
 _they suck_
@@ -21,6 +25,3 @@ _they suck_
 [![langs](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=roman-petruzela&layout=compact&count_private=true&theme=tokyonight&title_color=7aa2f7)](https://github.com/anuraghazra/github-readme-stats)
 
 > **I use Arch btw.**
-
-
-![Arch Linux](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/archlinux.svg)
