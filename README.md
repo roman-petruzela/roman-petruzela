@@ -15,8 +15,7 @@ Hi. I convert caffeine, existential dread, and weird ideas into code that (usual
 
 [![stack](https://skillicons.dev/icons?i=py,php,cs,rust,js&perline=6)](#)
 ### 🌌 Visual Void
-
-Jemný Arch watermark je v banneru nahoře.
+nothing yet.
 
 ### 📈 Stats:
 _they suck_
