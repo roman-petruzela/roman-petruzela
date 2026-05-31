@@ -1,7 +1,5 @@
 # roman-petruzela
 
-![roman-petruzela hero banner](./assets/arch-hero.svg)
-
 Hi. I convert caffeine, existential dread, and weird ideas into code that (usually) compiles.
 
 **Not a corporate rat, a penguin enjoyer.**
