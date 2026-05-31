@@ -2,6 +2,7 @@
 Hi. I convert caffeine, existential dread, and weird ideas into code that (usually) compiles.
 
 **Not a corporate rat, a penguin enjoyer.**
+
 [![linux](https://skillicons.dev/icons?i=linux&perline=6)](#)
 
 ## Tech Stack:
