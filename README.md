@@ -3,7 +3,7 @@ Hi. I convert caffeine, existential dread, and weird ideas into code that (usual
 
 **Not a corporate rat, a penguin enjoyer.**
 
-![Arch Linux](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/archlinux.svg)## Tech Stack:
+## Tech Stack:
 * **`Python`**
 * **`PHP`**
 * **`C#`**
@@ -21,3 +21,6 @@ _they suck_
 [![langs](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=roman-petruzela&layout=compact&count_private=true&theme=tokyonight&title_color=7aa2f7)](https://github.com/anuraghazra/github-readme-stats)
 
 > **I use Arch btw.**
+
+
+![Arch Linux](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/archlinux.svg)
