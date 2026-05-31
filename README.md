@@ -10,7 +10,8 @@ Hi. I convert caffeine, existential dread, and weird ideas into code that (usual
 * **`Rust`**
 * **`JS`**
 
-[![stack](https://skillicons.dev/icons?i=py,php,cs,rust,js,linux&perline=6)](#)
+[![stack](https://skillicons.dev/icons?i=py,php,cs,rust,js&perline=6)](#)
+
 [![linux](https://skillicons.dev/icons?i=linux&perline=6)](#)
 
 ### 🌌 Visual Void
