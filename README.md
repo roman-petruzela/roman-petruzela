@@ -3,8 +3,7 @@ Hi. I convert caffeine, existential dread, and weird ideas into code that (usual
 
 **Not a corporate rat, a penguin enjoyer.**
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
-## Tech Stack:
+![Arch Linux](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/archlinux.svg)## Tech Stack:
 * **`Python`**
 * **`PHP`**
 * **`C#`**
