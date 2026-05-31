@@ -1,7 +1,7 @@
 # roman-petruzela
 Hi. I convert caffeine, existential dread, and weird ideas into code that (usually) compiles.
 
-**Not a corporate rat, a penguin enjoyer.**
+**Not a corporate rat, a penguin enjoyer.** [![linux](https://skillicons.dev/icons?i=linux&perline=12)](#)
 
 ## Tech Stack:
 * **`Python`**
@@ -11,9 +11,6 @@ Hi. I convert caffeine, existential dread, and weird ideas into code that (usual
 * **`JS`**
 
 [![stack](https://skillicons.dev/icons?i=py,php,cs,rust,js&perline=6)](#)
-
-[![linux](https://skillicons.dev/icons?i=linux&perline=6)](#)
-
 ### 🌌 Visual Void
 nothing yet.
 
