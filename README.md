@@ -1,16 +1,13 @@
+there is probably a reason why you're here.
 # roman-petruzela
 
-Hi. I convert caffeine, existential dread, and weird ideas into code that (usually) compiles.
+I convert caffeine, existential dread, and weird ideas into code that (usually) compiles.
 
-**Not a corporate rat, a penguin enjoyer.**
+student
+developer
+penguin enthusiast
 
-## Tech Stack:
-* **`Python`**
-* **`PHP`**
-* **`C#`**
-* **`Rust`**
-* **`JS`**
-
+## languages i have offended:
 [![stack](https://skillicons.dev/icons?i=py,php,cs,rust,js,linux&perline=6)](#)
 ### 🌌 Visual Void
 nothing yet.
