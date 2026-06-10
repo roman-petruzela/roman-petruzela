@@ -4,7 +4,8 @@
 ## ¬ roman
 student<br>
 developer<br>
-penguin enthusiast<br>
+penguin enthusiast
+
 I convert caffeine, existential dread, and weird ideas into code that (usually) compiles.
 
 ### ⌘ languages i have offended:
