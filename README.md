@@ -11,7 +11,7 @@ I convert caffeine, existential dread, and weird ideas into code that (usually) 
 ### ⌘ languages i have offended:
 [![stack](https://skillicons.dev/icons?i=py,php,cs,rust,js&perline=5)](#)
 ### ∅ Visual Void
-{}
+nothing yet.
 
 ### ⌥ stats:
 _they suck_
