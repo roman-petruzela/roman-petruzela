@@ -1,0 +1,19 @@
+name: stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: roman-petruzela/rpkarticky@v1
+        with:
+          token: ${{ secrets.STATS_TOKEN || github.token }}
