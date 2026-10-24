@@ -16,7 +16,17 @@ I convert weird ideas into code that (usually) compiles.
 and school.
 
 ### ¬ stats
-[![stats](https://github-readme-mwendwa.vercel.app/api?username=roman-petruzela&show_icons=true&count_private=true&line_height=20&icon_color=7aa2f7&theme=tokyonight&title_color=7aa2f7)](#)
-[![langs](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=roman-petruzela&layout=compact&count_private=true&theme=tokyonight&title_color=7aa2f7)](#)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats-dark.svg">
+  <img src="stats-light.svg" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="langs-dark.svg">
+  <img src="langs-light.svg" alt="Most used languages">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="activity-dark.svg">
+  <img src="activity-light.svg" alt="Activity">
+</picture>
 
 > I use Arch btw.
