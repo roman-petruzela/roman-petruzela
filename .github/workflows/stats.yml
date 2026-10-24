@@ -14,17 +14,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-
-      # rpkarticky is private, so it can't be referenced via `uses: owner/repo@ref`
-      # from this public repo. Clone it with a PAT and run it as a local action.
-      - uses: actions/checkout@v5
-        with:
-          repository: roman-petruzela/rpkarticky
-          ref: v1
-          token: ${{ secrets.STATS_TOKEN }}
-          path: .rpkarticky
-
-      - uses: ./.rpkarticky
+      - uses: roman-petruzela/rpkarticky@v1
         with:
           token: ${{ secrets.STATS_TOKEN }}
-          design: niri
