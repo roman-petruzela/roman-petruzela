@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="165" viewBox="0 0 450 165">
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #70a5fd; }
+    .label { font: 600 14px 'Segoe UI', Ubuntu, sans-serif; fill: #38bdae; }
+    .small { font: 400 12px 'Segoe UI', Ubuntu, sans-serif; fill: #38bdae; }
+  </style>
+  <rect x="0.5" y="0.5" width="449" height="164" rx="4.5" fill="#1a1b27" stroke="#e4e2e2"/>
+  <text x="25" y="35" class="title">Most Used Languages</text>
+  <rect x="25" y="50" width="112.94212750620794" height="8" fill="#44a51c"/>
+  <rect x="137.94212750620795" y="50" width="79.44260449129565" height="8" fill="#3572A5"/>
+  <rect x="217.3847319975036" y="50" width="59.47092834431705" height="8" fill="#f1e05a"/>
+  <rect x="276.8556603418206" y="50" width="52.46123287155204" height="8" fill="#4F5D95"/>
+  <rect x="329.3168932133727" y="50" width="48.391842485983155" height="8" fill="#3178c6"/>
+  <rect x="377.7087356993558" y="50" width="47.29126430064416" height="8" fill="#89e051"/>
+  <circle cx="30" cy="85" r="5" fill="#44a51c"/>
+  <text x="42" y="89" class="small">QML 28.24%</text>
+  <circle cx="230" cy="85" r="5" fill="#3572A5"/>
+  <text x="242" y="89" class="small">Python 19.86%</text>
+  <circle cx="30" cy="110" r="5" fill="#f1e05a"/>
+  <text x="42" y="114" class="small">JavaScript 14.87%</text>
+  <circle cx="230" cy="110" r="5" fill="#4F5D95"/>
+  <text x="242" y="114" class="small">PHP 13.12%</text>
+  <circle cx="30" cy="135" r="5" fill="#3178c6"/>
+  <text x="42" y="139" class="small">TypeScript 12.10%</text>
+  <circle cx="230" cy="135" r="5" fill="#89e051"/>
+  <text x="242" y="139" class="small">Shell 11.82%</text>
+</svg>
