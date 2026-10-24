@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="195" viewBox="0 0 450 195" role="img" aria-label="Rmneq_&#39;s GitHub Stats">
+  <title>Rmneq_&#39;s GitHub Stats</title>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .title { font-size: 18px; font-weight: 600; fill: #2e7de9; }
+    .label { font-size: 14px; font-weight: 600; fill: #3760bf; }
+    .value { font-size: 14px; font-weight: 700; fill: #007197; }
+    .small { font-size: 12px; fill: #3760bf; }
+    .muted { font-size: 12px; fill: #848cb5; }
+    .big { font-size: 34px; font-weight: 700; fill: #9854f1; }
+    .prompt { font-size: 14px; fill: #3760bf; }
+  </style>
+  <rect x="0.5" y="0.5" width="449" height="194" rx="6" fill="#e1e2e7" stroke="#c4c8da"/>
+  <text x="25" y="38" class="title">Rmneq_&#39;s GitHub Stats</text>
+  <text x="25" y="70" class="label">Stars Earned:</text>
+  <text x="425" y="70" text-anchor="end" class="value">11</text>
+  <text x="25" y="90" class="label">Commits (last year):</text>
+  <text x="425" y="90" text-anchor="end" class="value">544</text>
+  <text x="25" y="110" class="label">Pull Requests:</text>
+  <text x="425" y="110" text-anchor="end" class="value">2</text>
+  <text x="25" y="130" class="label">Issues:</text>
+  <text x="425" y="130" text-anchor="end" class="value">0</text>
+  <text x="25" y="150" class="label">Repositories:</text>
+  <text x="425" y="150" text-anchor="end" class="value">24</text>
+  <text x="25" y="170" class="label">Contributed To:</text>
+  <text x="425" y="170" text-anchor="end" class="value">0</text>
+</svg>
